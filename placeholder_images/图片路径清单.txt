@@ -1,0 +1,16 @@
+# 网站缺失的图片路径列表
+
+## 主要图片
+1. 主页背景图: /hero-bg.jpg
+2. 关于页面个人照片: /about.jpg
+3. 产品展示图片: /product1.jpg
+
+## B站视频缩略图
+1. 视频缩略图1: https://i2.hdslb.com/bfs/archive/a9eab37e8dc665da13848aafe1cca6c04aa61ed9.jpg
+2. 视频缩略图2: https://i0.hdslb.com/bfs/archive/ba7fea3d37ec1c467116d3f0ed80a1da07a0a7a9.jpg
+3. 视频缩略图3: https://i0.hdslb.com/bfs/archive/ba7fea3d37ec1c467116d3f0ed80a1da07a0a7a9.jpg
+4. 视频缩略图4: https://i1.hdslb.com/bfs/archive/c9abffc09480d30bcdea7df2de0ef71e2aafd34a.jpg
+5. 视频缩略图5: https://i1.hdslb.com/bfs/archive/6ee0bdf1ecc4d54b72a822aba64bf96d40c1e0e8.jpg
+6. 视频缩略图6: https://i1.hdslb.com/bfs/archive/25cd0b1fce08a4f4f96a64d8fc3a46eadb03ad23.jpg
+7. 视频缩略图7: https://i1.hdslb.com/bfs/archive/a72e94d5d96e5bf57826a7ab05bb6a33aa8392cc.jpg
+8. 视频缩略图8: https://i0.hdslb.com/bfs/archive/4c0a41bc4a9e7bcc38d344dd7ed8fb76d9b0f08b.jpg 
